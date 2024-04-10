@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HsvwZFraciBW5OuNy4Qqj5YQXgF9dX9puTFQ57SEs9sSdJKjBmZKuJCfo+DdbovuaQuxH5blpIwJAx0aDOwBLw==",
+  "dgSpecHash": "bKm7S8c1j54CO2/VY/0NgDy0XASC+KutHWyd0bx15iybeMV8BFM+hLKkKfKDVWXqc687n6tVOyAZckICEA7BEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anyx\\source\\repos\\FactoryPattern\\FactoryPatternApp\\FactoryPatternApp.csproj",
+  "projectFilePath": "C:\\Users\\Anyx\\source\\FactoryPattern\\FactoryPatternApp\\FactoryPatternApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

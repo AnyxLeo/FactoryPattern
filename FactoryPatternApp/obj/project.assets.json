@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anyx\\source\\repos\\FactoryPattern\\FactoryPatternApp\\FactoryPatternApp.csproj",
+      "projectUniqueName": "C:\\Users\\Anyx\\source\\FactoryPattern\\FactoryPatternApp\\FactoryPatternApp.csproj",
       "projectName": "FactoryPatternApp",
-      "projectPath": "C:\\Users\\Anyx\\source\\repos\\FactoryPattern\\FactoryPatternApp\\FactoryPatternApp.csproj",
+      "projectPath": "C:\\Users\\Anyx\\source\\FactoryPattern\\FactoryPatternApp\\FactoryPatternApp.csproj",
       "packagesPath": "C:\\Users\\Anyx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anyx\\source\\repos\\FactoryPattern\\FactoryPatternApp\\obj\\",
+      "outputPath": "C:\\Users\\Anyx\\source\\FactoryPattern\\FactoryPatternApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anyx\\AppData\\Roaming\\NuGet\\NuGet.Config",
